@@ -11,7 +11,10 @@
 </div>
 
 
-## Hi there 👋 
+<h1 align='center'>
+  Welcome to my github
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 * 🔭 I’m currently working on updating my InstaGame project
@@ -21,7 +24,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiews89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiews89&layout=compact&theme=vision-friendly-dark&bg_color=white&text_color=black)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiews89&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 
