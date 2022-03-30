@@ -22,9 +22,9 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiews89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiews89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiews89&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiews89&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 
