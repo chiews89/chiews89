@@ -20,7 +20,7 @@
 * 🔭 I’m currently working on updating my InstaGame project and React-Solo-Project
 * 📫 How to reach me: chiews89@gmail.com
 
-### 🏗️: Current Projects :
+### 🏗️: Current Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiews89&repo=instagame&theme=github_dark&hide_border=true)](https://github.com/chiews89/instagame) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miajoubert&repo=petsy&theme=github_dark&hide_border=true)](https://github.com/miajoubert/petsy)
 
@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiews89&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
