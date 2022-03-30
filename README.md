@@ -5,6 +5,10 @@
   <a href="https://www.linkedin.com/in/chiew-saetern-7a255b95/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://angel.co/u/chiew-saetern">
+   <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
+ </img>
+ </a>
 </div>
 <div id='view-count' align='center'>
 <img src="https://komarev.com/ghpvc/?username=chiews89&style=flat-square&color=blue" alt=""/>
