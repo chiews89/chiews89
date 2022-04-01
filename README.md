@@ -22,7 +22,7 @@
 
 
 * 🔭 I’m currently working on updating my InstaGame project and React-Solo-Project
-* Portfolio:  https://chiews89.github.io/
+* 📔 Portfolio  https://chiews89.github.io/
 * 📫 How to reach me: chiews89@gmail.com
 
 ### 🏗️: Current Projects
