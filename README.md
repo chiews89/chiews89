@@ -21,7 +21,7 @@
 </h1>
 
 
-* 🔭 I’m currently working on updating my InstaGame project and React-Solo-Project
+* 🔭 I’m currently working on MDP project
 * 📔 Portfolio  https://chiews89.github.io/
 * 📫 How to reach me: chiews89@gmail.com
 
