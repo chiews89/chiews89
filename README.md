@@ -27,11 +27,9 @@
 
 ### 🏗️: Current Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MDP&theme=github_dark&hide_border=true)](https://github.com/vernfongchao/MDP)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiews89&repo=instagame&theme=github_dark&hide_border=true)](https://github.com/chiews89/instagame) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miajoubert&repo=petsy&theme=github_dark&hide_border=true)](https://github.com/miajoubert/petsy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiews89&repo=React-Solo-Project&theme=github_dark&hide_border=true)](https://github.com/chiews89/React-Solo-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiews89&repo=React-Solo-Project&theme=github_dark&hide_border=true)](https://github.com/chiews89/React-Solo-Project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MDP&theme=github_dark&hide_border=true)](https://github.com/vernfongchao/MDP)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=chiews89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" /> 
 
